@@ -1,7 +1,7 @@
 # .netCore3_Practice
 
 #  Section 2 L 17
-inisiate Angular libraryes using this command 
+initiate Angular libraryes using this command 
 ```
 ng new DattingApp-SPA
 ```
@@ -14,7 +14,15 @@ DattingApp-SPA$ ng serve
 create app componnet to build 4 main page for each app component and look for the app-tag 
 and use it in HTML page ... 
 
+1- click right in netCore3_Practice/DattingApp-SPA/src/app 
+2- generate new commponent with what ever name you want ( it will create 4 files ... )
 
+3- add [HttpClientModule] library in netCore3_Practice/DattingApp-SPA/src/app/app.module.ts
+```
+import {HttpClientModule} from '@angular/common/http';
+```
+
+4- clean main Anguler html and test new component <app-tag> 
 
 # Section 2 L 13 
 
