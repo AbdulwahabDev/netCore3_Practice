@@ -24,6 +24,9 @@ import {HttpClientModule} from '@angular/common/http';
 
 4- clean main Anguler html and test new component <app-tag> 
 
+understand " Access-Control-Allow-Orignal " Security 
+
+
 # Section 2 L 13 
 
 Async and await command  to avoid block all other connection while I have running one !! 
